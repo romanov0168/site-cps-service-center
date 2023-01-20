@@ -465,12 +465,12 @@ select {
   .article__span--visibility--desktop {
     display: inline;
   }
-  
+
   .article__figure {
     padding-left: 19px;
     padding-right: 29px;
   }
-  
+
   .article__img {
     width: 531px;
   }
